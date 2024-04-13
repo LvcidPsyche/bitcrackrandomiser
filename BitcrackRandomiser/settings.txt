@@ -2,23 +2,23 @@
 target_puzzle=66
 
 // which app will be used [bitcrack,vanitysearch,cpu]
-app_type=vanitysearch
+app_type=clBitcrack
 
 // App folder path
 // [cuBitcrack, clBitcrack or full path of the Bitcrack app]
 // [vanitysearch or full path of the Vanitysearch app]
 // [vanitysearch for CPU support]
-app_path=vanitysearch
+app_path=clBitcrack
 
 // App arguments
 // Example for bitcrack: -b 896 -t 256 -p 256
 app_arguments=
 
 // User token value. You can create it by logging into your account at btcpuzzle.info
-user_token=
+user_token=hCPZhyoK5GOkT5eMT15iUToakl4HMinxgzdujeLFUWE9SSVrE8Ym6HVlHaxwR7kNaqTAhYXdzTZF4u06Dg3T0TiJTJ3hj2qgmddir1UXKp7mlUBZmN349UkxdB5kDw1b
 
 // Wallet address for worker. {wallet}.{worker}. If no worker name it will create random.
-wallet_address=1eosEvvesKV6C2ka4RDNZhmepm1TLFBtw
+wallet_address=3QPtUQoy8bdL3CFnx2VmKkqNrW5GdHGE8T
 
 // Enter your GPU Count [1-16]
 gpu_count=1
